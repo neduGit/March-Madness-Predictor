@@ -1,1 +1,2 @@
 # March-Madness-Predictor
+### Using a scraped data from basketball-reference.com to create machine learning model(s) to predict outcomes of matchups within the March Madness Tournament. Uses data from the 2019 season to the 2023 season for training, while using the two most recent seasons (2024, 2025) for testing. The model makes actual predictions, while also producing percentages for the confidence of each prediction. 
